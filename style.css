@@ -35,6 +35,7 @@ main{
     display: flex;
     flex-direction: column;
     text-align: left;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562) ;
 }
 
 main h1{
